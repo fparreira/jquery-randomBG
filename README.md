@@ -1,1 +1,1 @@
-# randomBG
+# Jquery - Random Background
